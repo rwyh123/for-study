@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Salon.Views.ClientAddView">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" Margin="50 ,50">
+            <Entry  x:Name="Name " Placeholder="Имя"/>
+            <Entry  x:Name="BirhDay" Placeholder="Дата рождения"/>
+            <Entry  x:Name="Sex" Placeholder="Пол"/>
+            <Entry  x:Name="PhoneNumber" Placeholder="Номер телефона"/>
+            <Entry  x:Name="TelegramLogin" Placeholder="Логин телеграмм"/>
+            <Label Text="error message"/>
+            <Button HorizontalOptions="End" Text="Регистрация"/> 
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

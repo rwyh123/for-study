@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\salon.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\salon.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\views\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\views\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\views\\registerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\views\\clientaddview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\views\\clientaddview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\views\\clientaddview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\views\\clientaddview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\views\\loginview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\views\\loginview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\views\\registerview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\views\\registerview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\salon\\salon\\salon\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FFCDFD8B-BA86-40AA-B5DF-CE5A51EFF1D2}|Salon\\Salon\\Salon.csproj|solutionrelative:salon\\salon\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Salon",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Salon.csproj",
+              "RelativeDocumentMoniker": "Salon\\Salon\\Salon.csproj",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Salon.csproj",
+              "RelativeToolTip": "Salon\\Salon\\Salon.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T21:51:50.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsView.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\SettingsView.xaml.cs",
+              "RelativeDocumentMoniker": "Salon\\Salon\\Views\\SettingsView.xaml.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\SettingsView.xaml.cs",
+              "RelativeToolTip": "Salon\\Salon\\Views\\SettingsView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:51:50.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientAddView.xaml",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\ClientAddView.xaml",
+              "RelativeDocumentMoniker": "Salon\\Salon\\Views\\ClientAddView.xaml",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\ClientAddView.xaml",
+              "RelativeToolTip": "Salon\\Salon\\Views\\ClientAddView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T21:51:50.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientAddView.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\ClientAddView.xaml.cs",
+              "RelativeDocumentMoniker": "Salon\\Salon\\Views\\ClientAddView.xaml.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\ClientAddView.xaml.cs",
+              "RelativeToolTip": "Salon\\Salon\\Views\\ClientAddView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:51:50.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Salon\\Salon\\AssemblyInfo.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\AssemblyInfo.cs",
+              "RelativeToolTip": "Salon\\Salon\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:51:50.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Salon\\Salon\\AppShell.xaml",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\AppShell.xaml",
+              "RelativeToolTip": "Salon\\Salon\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwCMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T21:51:50.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterView.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\RegisterView.xaml.cs",
+              "RelativeDocumentMoniker": "Salon\\Salon\\Views\\RegisterView.xaml.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\RegisterView.xaml.cs",
+              "RelativeToolTip": "Salon\\Salon\\Views\\RegisterView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:51:50.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Salon\\Salon\\Views\\LoginView.xaml.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "Salon\\Salon\\Views\\LoginView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:51:50.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Salon\\Salon\\AppShell.xaml.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\AppShell.xaml.cs",
+              "RelativeToolTip": "Salon\\Salon\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:51:50.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Salon\\Salon\\App.xaml.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\App.xaml.cs",
+              "RelativeToolTip": "Salon\\Salon\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:51:50.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Salon\\Salon\\Views\\LoginView.xaml",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Salon\\Salon\\Views\\LoginView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T21:51:50.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterView.xaml",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\RegisterView.xaml",
+              "RelativeDocumentMoniker": "Salon\\Salon\\Views\\RegisterView.xaml",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\Views\\RegisterView.xaml",
+              "RelativeToolTip": "Salon\\Salon\\Views\\RegisterView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T21:51:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\App.xaml",
+              "RelativeDocumentMoniker": "Salon\\Salon\\App.xaml",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\App.xaml",
+              "RelativeToolTip": "Salon\\Salon\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T21:51:50.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GettingStarted.txt",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\GettingStarted.txt",
+              "RelativeDocumentMoniker": "Salon\\Salon\\GettingStarted.txt",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\Salon\\Salon\\Salon\\GettingStarted.txt",
+              "RelativeToolTip": "Salon\\Salon\\GettingStarted.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-17T21:51:50.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

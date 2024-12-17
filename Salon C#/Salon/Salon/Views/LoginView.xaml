@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Salon.Views.LoginView">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" Margin="50 ,50">
+            <Image Source="xamarin_logo.png"/>
+            <Entry  x:Name="Login" Placeholder="Логин" />
+            <Entry  x:Name="Password" Placeholder="Пароль"/>
+            <Label Text="error message"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="Регистрация"/>
+                <Button Text="Войти"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F+5bf0Pt6WcuDYAbib2dHz2Jk2XR7r3YSMAm9CJpB9mI40S1vfGbp53C/3PR6jJgc1xlJynogG3tHp+Z3i9Jug==",
+  "success": true,
+  "projectFilePath": "Q:\\учеба\\Salon\\Salon\\Salon\\Salon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\synok\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\synok\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512",
+    "C:\\Users\\synok\\.nuget\\packages\\xamarin.forms\\5.0.0.2662\\xamarin.forms.5.0.0.2662.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Salon.Views.SettingsView">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" Margin="50 ,50">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Имя орг.:"/>
+                <Entry x:Name="OrganizationName" Placeholder="Имя орг"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Адресс:"/>
+                <Entry x:Name="Adress" Placeholder="Адресс"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Раб.время:"/>
+                <Entry x:Name="WorkTime" Placeholder="Раб.время"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Мэнеджер:"/>
+                <Entry x:Name="Manager" Placeholder="Мэнеджер"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Логин:"/>
+                <Entry x:Name="Login" Placeholder="Логин"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Пароль:"/>
+                <Entry x:Name="Passworg" Placeholder="Пароль"/>
+            </StackLayout>
+            <Button Text="Выход" VerticalOptions="End"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

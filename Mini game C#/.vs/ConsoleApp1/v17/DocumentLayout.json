@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\consoleapp1\\consoleapp1\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\consoleapp1\\consoleapp1\\entities\\cashmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\cashmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\consoleapp1\\consoleapp1\\game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\consoleapp1\\consoleapp1\\game\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\game\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\consoleapp1\\consoleapp1\\game\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\game\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\consoleapp1\\consoleapp1\\game\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\game\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\consoleapp1\\consoleapp1\\entities\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\consoleapp1\\consoleapp1\\entities\\spot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\spot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043F\u043F\u043E\u0433\u0430\\\u043D\u0430\u0434\u043E2\\consoleapp1\\consoleapp1\\entities\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C09A88-3B10-4F08-8181-2D067D2D07C6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\entities\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Spot.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Entities\\Spot.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Spot.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Entities\\Spot.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Spot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:01:48.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Player.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Entities\\Player.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:01:48.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashMachine.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Entities\\CashMachine.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\CashMachine.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Entities\\CashMachine.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\CashMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:01:48.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Door.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Entities\\Door.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Door.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Entities\\Door.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Door.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:01:48.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Game\\Tasks.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Game\\Tasks.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Game\\Tasks.cs",
+              "RelativeToolTip": "ConsoleApp1\\Game\\Tasks.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:01:48.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Security.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Game\\Security.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Game\\Security.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Game\\Security.cs",
+              "RelativeToolTip": "ConsoleApp1\\Game\\Security.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:01:48.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:01:48.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Entities\\Entities.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Entities\\Entities.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Entities\\Entities.cs",
+              "RelativeToolTip": "ConsoleApp1\\Entities\\Entities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:01:48.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Place.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Game\\Place.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Game\\Place.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Game\\Place.cs",
+              "RelativeToolTip": "ConsoleApp1\\Game\\Place.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:01:48.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Game\\Game.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Game\\Game.cs",
+              "ToolTip": "D:\\\u041F\u043F\u043E\u0433\u0430\\\u041D\u0410\u0414\u041E2\\ConsoleApp1\\ConsoleApp1\\Game\\Game.cs",
+              "RelativeToolTip": "ConsoleApp1\\Game\\Game.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswDMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:01:48.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
