@@ -1,0 +1,98 @@
+﻿<UserControl x:Class="Taxi_4._0.Views.CreateOrderView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Taxi_4._0.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="700"
+      >
+
+    <Grid Background="White" Grid.IsSharedSizeScope="True">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Grid.Row="0"
+                   Style="{StaticResource Headder text}"
+                   Text="Order"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"/>
+        
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" SharedSizeGroup="firstColumn" />
+                <ColumnDefinition Width="auto" SharedSizeGroup="SecondColumn"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Row="1"
+                       Grid.Column="0"
+                       Style="{StaticResource Main text}"
+                       Text="where from"
+                       VerticalAlignment="Center"/>
+            <ComboBox Grid.Row="1"
+                      Grid.Column="1"
+                      Margin="20 0 0 0"
+                      VerticalAlignment="Center"
+                      ItemsSource="{Binding _plases_}"
+                      SelectedValue="{Binding From, Mode=TwoWay}"
+                      Width="180" Height="35"/>
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" SharedSizeGroup="firstColumn" />
+                <ColumnDefinition Width="auto" SharedSizeGroup="SecondColumn"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Row="2"
+                       Style="{StaticResource Main text}"
+                       Grid.Column="0"
+                       Text="where"
+                       VerticalAlignment="Center"/>
+            <ComboBox  Grid.Row="2"
+                       Grid.Column="1"
+                       Margin="20 0 0 0"
+                       ItemsSource="{Binding _plases_}"
+                       SelectedValue="{Binding Where, Mode=TwoWay}"
+                       VerticalAlignment="Center"
+                       Width="180" Height="35"/>
+
+        </Grid>
+        
+        <TextBlock Grid.Row="3"
+                   Style = "{StaticResource Main text}"
+                   Text="Pre price"
+                   VerticalAlignment="Center"/>
+       
+        <TextBox Grid.Row="4"
+                 Style="{StaticResource Field}"
+                 Text="{Binding PrePrice}"
+                 HorizontalAlignment="Left"
+                 VerticalAlignment="Center"
+                 Width="180" Height="40"
+                 IsEnabled="False"/>
+        <Grid Grid.Row="5">
+            <TextBox Text="{Binding Message}"
+                     FontSize="20"
+                     IsEnabled="False"/>
+        </Grid>
+        <StackPanel Grid.Row="6" Orientation="Horizontal">
+            <Button Grid.Row="5"
+                    Style="{StaticResource Navigation button}"
+                    Command="{Binding BackToMainMenu}"
+                    Content="Back"/>
+            <Button Grid.Row="5"
+                    Style="{StaticResource Navigation button}"
+                    Command="{Binding CreateOrder}"
+                    Margin="20 0 0 0"
+                    x:Name="CreateOrderButton"
+                    Content="Create order"/>
+        
+        </StackPanel>
+    </Grid>
+</UserControl>
